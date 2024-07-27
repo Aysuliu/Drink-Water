@@ -1,0 +1,247 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:2:1-47:12
+MERGED from [com.params.progressview:step-progress:1.0.2] /Users/suluwmoon/.gradle/caches/transforms-3/72b033ced795a0d8476645f6d7284e3c/transformed/jetified-step-progress-1.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/7fde5956491edea6308451e478395017/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] /Users/suluwmoon/.gradle/caches/transforms-3/d476e02c2fef838bf574e29e25cec785/transformed/jetified-library-0.3.5/AndroidManifest.xml:2:1-17:12
+MERGED from [com.tbuonomo.andrui:viewpagerdotsindicator:2.1.2] /Users/suluwmoon/.gradle/caches/transforms-3/2535d0a0c5f44229421f42dc274ebc52/transformed/jetified-viewpagerdotsindicator-2.1.2/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/995b79957edf582d6e2ee8441e0d7555/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/suluwmoon/.gradle/caches/transforms-3/2d2dc1d7ce2c74ba82f95ad2ce6fabdf/transformed/jetified-core-ktx-1.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/suluwmoon/.gradle/caches/transforms-3/cd1a9ec5f657a22b028b730f98ec8a8b/transformed/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.patgdut:RadioRealButton:v2.1.2] /Users/suluwmoon/.gradle/caches/transforms-3/1aeb99c995bd865063e4ba3642689648/transformed/jetified-RadioRealButton-v2.1.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/8121e865edc08d81358e56556d4c3037/transformed/jetified-MPAndroidChart-v3.1.0/AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/a35cfea554f3d082a41d25d9c57a947c/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.daimajia.easing:library:2.0] /Users/suluwmoon/.gradle/caches/transforms-3/6b3e941835086385bb5b37a0fafd4de1/transformed/jetified-library-2.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.daimajia.androidanimations:library:2.3] /Users/suluwmoon/.gradle/caches/transforms-3/331dbf761f2f86e21139071c80b936b5/transformed/jetified-library-2.3/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/69d00a4067e119644f6916252647e2d2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/f41f65ffd011870380619380f85066f1/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/e276c9331942f8acbaf6d4fd66cba127/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/465ba0fc415105ec7ec69468b2914ea9/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/75537dfd39deaa20c1372a36d7950ebb/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/8d692c67156ad73ec911060b309e46d8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/suluwmoon/.gradle/caches/transforms-3/c32c4046a2b07d8657850b632a792f7a/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/ce7cacb3f6c2f3ee525faf15d4517f1d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/24714f6f31cd1360290c534c1c08008d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/82abf1c1c46d8c53bc2fabe27c059cbd/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/da3b725ecbf3e6706442a811ce0d32f5/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/94841a9260a868b368cb0121d9ca5ba1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/fb9028cb713c5b1c2dc10341f8cf3aac/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/2153eb988c935efc6847e2cc01407c24/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/e11aed43dede69f21fc0ad6ddb41f784/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/85a3ae372783e7c6e25c4e8ee92d4a9d/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /Users/suluwmoon/.gradle/caches/transforms-3/fb5d1891cfcf160a8156a7004785327d/transformed/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/8e131d7f6099cf966334f504379be23b/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/184ab093a7933f74535b855754e889b8/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/9c0e9e1782b229db31625ae1759e2319/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/7bf71733bf3e86e42c5d1fca3f19b4f2/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/2b6c3d6a094b1bc47f065cf737ecaa64/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/9a455752cdb6b32c2ffe6daea9171d47/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/7c521daa4316e9fd79bc0d72bcb2e351/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/0822fb33f3fa6a4393b811ef694c9e88/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/efdcc5faa3687ab0c4bb27bdb2c602e7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/b7e339be17ddc48de9efb99e85c85722/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/1d41be00159e3c1465c96c16b0e9bb13/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:4:11-58
+		INJECTED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:6:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:9:5-45:19
+MERGED from [com.google.android.material:material:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/7fde5956491edea6308451e478395017/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/7fde5956491edea6308451e478395017/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] /Users/suluwmoon/.gradle/caches/transforms-3/d476e02c2fef838bf574e29e25cec785/transformed/jetified-library-0.3.5/AndroidManifest.xml:11:5-15:19
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] /Users/suluwmoon/.gradle/caches/transforms-3/d476e02c2fef838bf574e29e25cec785/transformed/jetified-library-0.3.5/AndroidManifest.xml:11:5-15:19
+MERGED from [com.tbuonomo.andrui:viewpagerdotsindicator:2.1.2] /Users/suluwmoon/.gradle/caches/transforms-3/2535d0a0c5f44229421f42dc274ebc52/transformed/jetified-viewpagerdotsindicator-2.1.2/AndroidManifest.xml:11:5-20
+MERGED from [com.tbuonomo.andrui:viewpagerdotsindicator:2.1.2] /Users/suluwmoon/.gradle/caches/transforms-3/2535d0a0c5f44229421f42dc274ebc52/transformed/jetified-viewpagerdotsindicator-2.1.2/AndroidManifest.xml:11:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/suluwmoon/.gradle/caches/transforms-3/cd1a9ec5f657a22b028b730f98ec8a8b/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/suluwmoon/.gradle/caches/transforms-3/cd1a9ec5f657a22b028b730f98ec8a8b/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.2.0] /Users/suluwmoon/.gradle/caches/transforms-3/fb5d1891cfcf160a8156a7004785327d/transformed/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/suluwmoon/.gradle/caches/transforms-3/fb5d1891cfcf160a8156a7004785327d/transformed/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/8e131d7f6099cf966334f504379be23b/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/8e131d7f6099cf966334f504379be23b/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/suluwmoon/.gradle/caches/transforms-3/fb5d1891cfcf160a8156a7004785327d/transformed/core-1.2.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:14:13-39
+	android:label
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:12:13-45
+	tools:ignore
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:16:13-52
+	android:roundIcon
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:13:13-58
+	android:allowBackup
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:10:13-39
+	android:theme
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:15:13-44
+activity#mirshod.aysuluv.project.waterReminder.WalkThroughActivity
+ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:17:9-19:20
+	android:screenOrientation
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:18:19-55
+	android:name
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:17:19-91
+activity#mirshod.aysuluv.project.waterReminder.StatsActivity
+ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:20:9-24:20
+	android:screenOrientation
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:23:17-53
+	android:theme
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:22:17-49
+	android:name
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:21:17-83
+activity#mirshod.aysuluv.project.waterReminder.InitUserInfoActivity
+ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:25:9-27:20
+	android:screenOrientation
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:26:19-55
+	android:name
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:25:19-92
+activity#mirshod.aysuluv.project.waterReminder.MainActivity
+ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:28:9-37:20
+	android:screenOrientation
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:31:17-53
+	android:theme
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:30:17-49
+	android:name
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:29:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:35:27-74
+receiver#mirshod.aysuluv.project.waterReminder.recievers.NotifierReceiver
+ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:39:9-100
+	android:name
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:39:19-98
+receiver#mirshod.aysuluv.project.waterReminder.recievers.BootReceiver
+ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:40:9-44:20
+	android:name
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:40:19-94
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:41:13-43:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml:42:25-76
+uses-sdk
+INJECTED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml
+INJECTED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml
+MERGED from [com.params.progressview:step-progress:1.0.2] /Users/suluwmoon/.gradle/caches/transforms-3/72b033ced795a0d8476645f6d7284e3c/transformed/jetified-step-progress-1.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.params.progressview:step-progress:1.0.2] /Users/suluwmoon/.gradle/caches/transforms-3/72b033ced795a0d8476645f6d7284e3c/transformed/jetified-step-progress-1.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/7fde5956491edea6308451e478395017/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/7fde5956491edea6308451e478395017/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] /Users/suluwmoon/.gradle/caches/transforms-3/d476e02c2fef838bf574e29e25cec785/transformed/jetified-library-0.3.5/AndroidManifest.xml:7:5-9:41
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] /Users/suluwmoon/.gradle/caches/transforms-3/d476e02c2fef838bf574e29e25cec785/transformed/jetified-library-0.3.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tbuonomo.andrui:viewpagerdotsindicator:2.1.2] /Users/suluwmoon/.gradle/caches/transforms-3/2535d0a0c5f44229421f42dc274ebc52/transformed/jetified-viewpagerdotsindicator-2.1.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tbuonomo.andrui:viewpagerdotsindicator:2.1.2] /Users/suluwmoon/.gradle/caches/transforms-3/2535d0a0c5f44229421f42dc274ebc52/transformed/jetified-viewpagerdotsindicator-2.1.2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/995b79957edf582d6e2ee8441e0d7555/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/995b79957edf582d6e2ee8441e0d7555/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/suluwmoon/.gradle/caches/transforms-3/2d2dc1d7ce2c74ba82f95ad2ce6fabdf/transformed/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/suluwmoon/.gradle/caches/transforms-3/2d2dc1d7ce2c74ba82f95ad2ce6fabdf/transformed/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/suluwmoon/.gradle/caches/transforms-3/cd1a9ec5f657a22b028b730f98ec8a8b/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/suluwmoon/.gradle/caches/transforms-3/cd1a9ec5f657a22b028b730f98ec8a8b/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.patgdut:RadioRealButton:v2.1.2] /Users/suluwmoon/.gradle/caches/transforms-3/1aeb99c995bd865063e4ba3642689648/transformed/jetified-RadioRealButton-v2.1.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.patgdut:RadioRealButton:v2.1.2] /Users/suluwmoon/.gradle/caches/transforms-3/1aeb99c995bd865063e4ba3642689648/transformed/jetified-RadioRealButton-v2.1.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/8121e865edc08d81358e56556d4c3037/transformed/jetified-MPAndroidChart-v3.1.0/AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/8121e865edc08d81358e56556d4c3037/transformed/jetified-MPAndroidChart-v3.1.0/AndroidManifest.xml:16:5-18:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/a35cfea554f3d082a41d25d9c57a947c/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/a35cfea554f3d082a41d25d9c57a947c/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.daimajia.easing:library:2.0] /Users/suluwmoon/.gradle/caches/transforms-3/6b3e941835086385bb5b37a0fafd4de1/transformed/jetified-library-2.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.easing:library:2.0] /Users/suluwmoon/.gradle/caches/transforms-3/6b3e941835086385bb5b37a0fafd4de1/transformed/jetified-library-2.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:2.3] /Users/suluwmoon/.gradle/caches/transforms-3/331dbf761f2f86e21139071c80b936b5/transformed/jetified-library-2.3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:2.3] /Users/suluwmoon/.gradle/caches/transforms-3/331dbf761f2f86e21139071c80b936b5/transformed/jetified-library-2.3/AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/69d00a4067e119644f6916252647e2d2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/69d00a4067e119644f6916252647e2d2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/f41f65ffd011870380619380f85066f1/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/f41f65ffd011870380619380f85066f1/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/e276c9331942f8acbaf6d4fd66cba127/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/e276c9331942f8acbaf6d4fd66cba127/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/465ba0fc415105ec7ec69468b2914ea9/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/465ba0fc415105ec7ec69468b2914ea9/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/75537dfd39deaa20c1372a36d7950ebb/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/75537dfd39deaa20c1372a36d7950ebb/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/8d692c67156ad73ec911060b309e46d8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/8d692c67156ad73ec911060b309e46d8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/suluwmoon/.gradle/caches/transforms-3/c32c4046a2b07d8657850b632a792f7a/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/suluwmoon/.gradle/caches/transforms-3/c32c4046a2b07d8657850b632a792f7a/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/ce7cacb3f6c2f3ee525faf15d4517f1d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/ce7cacb3f6c2f3ee525faf15d4517f1d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/24714f6f31cd1360290c534c1c08008d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/24714f6f31cd1360290c534c1c08008d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/82abf1c1c46d8c53bc2fabe27c059cbd/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/82abf1c1c46d8c53bc2fabe27c059cbd/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/da3b725ecbf3e6706442a811ce0d32f5/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/da3b725ecbf3e6706442a811ce0d32f5/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/94841a9260a868b368cb0121d9ca5ba1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/94841a9260a868b368cb0121d9ca5ba1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/fb9028cb713c5b1c2dc10341f8cf3aac/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/fb9028cb713c5b1c2dc10341f8cf3aac/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/2153eb988c935efc6847e2cc01407c24/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/2153eb988c935efc6847e2cc01407c24/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/e11aed43dede69f21fc0ad6ddb41f784/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/e11aed43dede69f21fc0ad6ddb41f784/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/85a3ae372783e7c6e25c4e8ee92d4a9d/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/85a3ae372783e7c6e25c4e8ee92d4a9d/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /Users/suluwmoon/.gradle/caches/transforms-3/fb5d1891cfcf160a8156a7004785327d/transformed/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/suluwmoon/.gradle/caches/transforms-3/fb5d1891cfcf160a8156a7004785327d/transformed/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/8e131d7f6099cf966334f504379be23b/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/8e131d7f6099cf966334f504379be23b/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/184ab093a7933f74535b855754e889b8/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/184ab093a7933f74535b855754e889b8/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/9c0e9e1782b229db31625ae1759e2319/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/suluwmoon/.gradle/caches/transforms-3/9c0e9e1782b229db31625ae1759e2319/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/7bf71733bf3e86e42c5d1fca3f19b4f2/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/7bf71733bf3e86e42c5d1fca3f19b4f2/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/2b6c3d6a094b1bc47f065cf737ecaa64/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/2b6c3d6a094b1bc47f065cf737ecaa64/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/9a455752cdb6b32c2ffe6daea9171d47/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/9a455752cdb6b32c2ffe6daea9171d47/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/7c521daa4316e9fd79bc0d72bcb2e351/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/7c521daa4316e9fd79bc0d72bcb2e351/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/0822fb33f3fa6a4393b811ef694c9e88/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/0822fb33f3fa6a4393b811ef694c9e88/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/efdcc5faa3687ab0c4bb27bdb2c602e7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/efdcc5faa3687ab0c4bb27bdb2c602e7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/b7e339be17ddc48de9efb99e85c85722/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/b7e339be17ddc48de9efb99e85c85722/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/1d41be00159e3c1465c96c16b0e9bb13/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/suluwmoon/.gradle/caches/transforms-3/1d41be00159e3c1465c96c16b0e9bb13/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml
+INJECTED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml
+		ADDED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/suluwmoon/Desktop/Drink-Water-Alert/app/src/main/AndroidManifest.xml
